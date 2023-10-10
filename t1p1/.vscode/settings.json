@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "libagenda.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
